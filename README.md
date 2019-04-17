@@ -55,11 +55,11 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-<!--
+
 div {
   background-color: rgb(0,0,0);
 }
-  -->
+
 
 .landscape-view {
 	display: none;
@@ -107,7 +107,7 @@ html {
 
 <body>
 
-<div class="landscape-view"><img src="turn.PNG"></div>
+<div class="landscape-view"><img src="turn.png"></div>
 
 
 <span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
@@ -118,7 +118,7 @@ html {
 <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
 
-<div style="background-color: rgba(255, 255, 0, 0.6)";> 
+<div style="background-color: rgba(255, 255, 0, 0.3)";> 
 <h3><span class="white">↓ 2019/03/30</span></h3>
 <a href="20190330_001.JPG" data-lightbox="abc"><img src="20190330_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_001.JPG" data-lightbox="abc"><img src="20190416_001.JPG" alt="サンプル画像" width="900" /></a>
