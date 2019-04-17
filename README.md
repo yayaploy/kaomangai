@@ -2,8 +2,21 @@
 
 <html lang="th">
  <head>
-   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<META content="IE=11.0000" 
+http-equiv="X-UA-Compatible">
+
+<META charset="utf-8">
+<META http-equiv="X-UA-Compatible" content="IE=edge">
+<META name="viewport" content="width=device-width,initial-scale=1"><LINK href="favicon.ico" 
+rel="icon"><TITLE>Honda Accord ดีไซน์ใหม่สไตล์สปอร์ต | Honda Thailand</TITLE>
+<META name="description" content="Honda Accord ซีดานระดับพรีเมียม ระบบเกียร์ 5 สปีด ห้องโดยสารที่กว้างสบายและหรูหรา ระบบควบคุมประตูอัจฉริยะ สอบถามรายละเอียดโปรโมชั่นได้ที่ศูนย์ Honda ใกล้บ้านคุณ">
+<META name="keywords" content="Honda, Thailand, Accord, Hybrid">
+<META content="website" property="og:type">
+<META content="Honda Thailand - ฮอนด้า ประเทศไทย" property="og:title">
+<META content="Honda Thailand เว็บไซต์ฮอนด้าประเทศไทย ศูนย์รวมข้อมูลรถยนต์ฮอนด้าทุกรุ่น โปรโมชั่นและข้อเสนอพิเศษ อัพเดตข้อมูลรถ..." 
+property="og:description">
+<META content="https://www.honda.co.th/accord/share-image.jpg" property="og:image">
+<META content="https://www.honda.co.th/accord/" property="og:url">
  
 
 <style type="text/css">
