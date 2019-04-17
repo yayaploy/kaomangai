@@ -60,6 +60,9 @@ div {
   background-color: rgb(0,0,0);
 }
 
+body {
+  background-color: rgba(255, 255, 0, 0.3);
+}
 
 .landscape-view {
 	display: none;
@@ -79,10 +82,10 @@ div {
 	height: 100%; overflow: hidden; display: none; position: fixed;
 }
 body {
-	background: rgba(225, 225, 225, 0.2); position: relative;
+	background: rgb(0, 0, 0); position: relative;
 }
 html {
-	background: rgba(225, 225, 225, 0.2); position: relative;
+	background: rgb(0, 0, 0); position: relative;
 }
 .landscape-view {
 	height: 100%; overflow: hidden;
