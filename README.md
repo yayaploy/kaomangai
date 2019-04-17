@@ -55,14 +55,55 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
   
+div {
+  background-color: rgb(0,0,0);
+}
+  
+.landscape-view {
+	display: none;
+}
+#loading {
+	background-position: 50%; transition:none; left: 0px; top: 0px; width: 100vw; height: 100vh; display: flex; position: fixed; z-index: 10000; justify-content: center; align-items: center; background-repeat: no-repeat; background-size: cover; background-color: rgb(255, 255, 255); -webkit-transition: none; -webkit-box-align: center; -webkit-box-pack: center;
+}
+@media all and (min-width:576px)
+{
+.navToggle {
+	height: 2em;
+}
+}
+@media all and (orientation:landscape) and (max-width:812px)
+{
+#app > :not(.landscape-view) {
+	height: 100%; overflow: hidden; display: none; position: fixed;
+}
+body {
+	background: rgb(0, 0, 0); position: relative;
+}
+html {
+	background: rgb(0, 0, 0); position: relative;
+}
+.landscape-view {
+	height: 100%; overflow: hidden;
+}
+body {
+	height: 100%; overflow: hidden;
+}
+html {
+	height: 100%; overflow: hidden;
+}
+.landscape-view {
+	padding: 50px 0px; width: 100%; display: flex; position: fixed; justify-content: center; align-items: center; -webkit-box-align: center; -webkit-box-pack: center;
+}
+}
+  
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
  
 </head>
-<!--
-<body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
--->
+
+<body>
+<div class="landscape-view"><img src="/turn.PNG"></div>
 
 <span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２!!!</marquee></span></h1>
