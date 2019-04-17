@@ -82,7 +82,7 @@ body {
 	background: rgba(225, 225, 225, 0.2); position: relative;
 }
 html {
-	background: rgb(0, 0, 0); position: relative;
+	background: rgba(225, 225, 225, 0.2); position: relative;
 }
 .landscape-view {
 	height: 100%; overflow: hidden;
