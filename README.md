@@ -56,11 +56,11 @@ body::before {
   }
 
 <!--
-section {
+div {
   background-color: rgb(0,0,0);
 }
   -->
-/*
+
 .landscape-view {
 	display: none;
 }
@@ -97,7 +97,7 @@ html {
 	padding: 50px 0px; width: 100%; display: flex; position: fixed; justify-content: center; align-items: center; -webkit-box-align: center; -webkit-box-pack: center;
 }
 }
-*/
+
   
 </style>
 
@@ -106,9 +106,9 @@ html {
 </head>
 
 <body>
-<!--
-<div class="landscape-view"><img src="/turn.PNG"></div>
--->
+
+<div class="landscape-view"><img src="turn.PNG"></div>
+
 
 <span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２!!!</marquee></span></h1>
@@ -117,13 +117,14 @@ html {
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100" >
 <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
-<div>
+
+<div style="background-color: rgba(255, 255, 0, 0.6)";> 
 <h3><span class="white">↓ 2019/03/30</span></h3>
 <a href="20190330_001.JPG" data-lightbox="abc"><img src="20190330_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_001.JPG" data-lightbox="abc"><img src="20190416_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_004.JPG" data-lightbox="abc"><img src="20190416_004.JPG" alt="サンプル画像" width="900" /></a>
-
+</div>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
