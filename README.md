@@ -1,8 +1,9 @@
 # kaomangai
-
+<!DOCTYPE html>
 <html lang="th">
  <head>
-  <meta charset="utf-8" />
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
  
 
 <style type="text/css">
@@ -60,9 +61,6 @@ div {
   background-color: rgb(0,0,0);
 }
 
-body {
-  background-color: rgba(255, 255, 0, 0.3);
-}
 
 .landscape-view {
 	display: none;
