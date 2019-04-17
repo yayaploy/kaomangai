@@ -59,7 +59,8 @@ body::before {
 section {
   background-color: rgb(0,0,0);
 }
-  
+  -->
+/*
 .landscape-view {
 	display: none;
 }
@@ -96,7 +97,7 @@ html {
 	padding: 50px 0px; width: 100%; display: flex; position: fixed; justify-content: center; align-items: center; -webkit-box-align: center; -webkit-box-pack: center;
 }
 }
--->
+*/
   
 </style>
 
