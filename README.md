@@ -65,14 +65,14 @@ body::before {
 -->
 
 <span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/17@ラーシャー・カオマンガイ!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2019/04/17@ラーシャー・カオマンガイ!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
 <br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100">
 <p align="right"> <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
 <div>
-<h3><span class="white">↓ 2019/04/17</span></h3>
+<h3><span class="white">↓ 2019/03/30</span></h3>
 <a href="20190330_001.JPG" data-lightbox="abc"><img src="20190330_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_001.JPG" data-lightbox="abc"><img src="20190416_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
