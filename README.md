@@ -54,7 +54,8 @@ body::before {
   background:url(https://yayaploy.github.io/kaomangai/20190416_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-  
+
+<!--
 section {
   background-color: rgb(0,0,0);
 }
@@ -95,6 +96,7 @@ html {
 	padding: 50px 0px; width: 100%; display: flex; position: fixed; justify-content: center; align-items: center; -webkit-box-align: center; -webkit-box-pack: center;
 }
 }
+-->
   
 </style>
 
@@ -103,8 +105,10 @@ html {
 </head>
 
 <body>
+<!--
 <div class="landscape-view"><img src="/turn.PNG"></div>
-<section>
+-->
+
 <span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
@@ -139,4 +143,3 @@ Map
  <footer><span class="snow">
  Copyright 2019/04/17 Torokoid.Mibu
 </span></footer>
-</section>
