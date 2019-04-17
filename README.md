@@ -51,7 +51,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/kaomangai/20190416_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/kaomangai/20190416_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -74,7 +74,7 @@ body::before {
 <div>
 <h3><span class="white">↓ 2019/04/17</span></h3>
 <a href="20190330_001.JPG" data-lightbox="abc"><img src="20190330_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190416_002.JPG" data-lightbox="abc"><img src="20190416_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190416_001.JPG" data-lightbox="abc"><img src="20190416_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_004.JPG" data-lightbox="abc"><img src="20190416_004.JPG" alt="サンプル画像" width="900" /></a>
 
