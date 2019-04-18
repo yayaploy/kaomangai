@@ -8,7 +8,7 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width,initial-scale=1"><LINK href="favicon.ico" rel="icon">
  <TITLE>rarsya-kaomangai</TITLE>
- <meta name="keywords" content="kaomangai, Thailand, タイ, ラーシャー, カオマンガイ">
+ <meta name="keywords" content="kaomangai, Thailand, タイ, レストラン, ラーシャー, カオマンガイ">
  <meta content="website" property="og:type">
 
 <style type="text/css">
