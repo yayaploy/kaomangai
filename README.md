@@ -14,7 +14,7 @@
 <style type="text/css">
 
   p {
-color: #00ff99;
+color: #0000ff;
 font-size: 1.5em;
  }
 <!--
