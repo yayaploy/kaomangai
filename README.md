@@ -131,7 +131,7 @@ html {
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_004.JPG" data-lightbox="abc"><img src="20190416_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190418_001.jpg" data-lightbox="abc"><img src="20190418_001.jpg" alt="サンプル画像" width="900" /></a>
-<span class="blue"><p align="left">一押しは、カオマンガイ・セット、¥800</p></span>
+<h2><span class="blue"><p align="left">一押しは、カオマンガイ・セット、¥800</p></span></h2>
 <a href="20190418_002.jpg" data-lightbox="abc"><img src="20190418_002.jpg" alt="サンプル画像" width="900" /></a>
 
 <a href="20190418_004.jpg" data-lightbox="abc"><img src="20190418_004.jpg" alt="サンプル画像" width="900" /></a>
