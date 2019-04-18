@@ -131,6 +131,7 @@ html {
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_004.JPG" data-lightbox="abc"><img src="20190416_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190418_001.jpg" data-lightbox="abc"><img src="20190418_001.jpg" alt="サンプル画像" width="900" /></a>
+<span class="blue"><p align="left">一押しは、カオマンガイ・セット、¥800</p></span>
 <a href="20190418_002.jpg" data-lightbox="abc"><img src="20190418_002.jpg" alt="サンプル画像" width="900" /></a>
 
 <a href="20190418_004.jpg" data-lightbox="abc"><img src="20190418_004.jpg" alt="サンプル画像" width="900" /></a>
@@ -145,8 +146,7 @@ html {
 <a href="20190418_013.jpg" data-lightbox="abc"><img src="20190418_013.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_014.jpg" data-lightbox="abc"><img src="20190418_014.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_015.jpg" data-lightbox="abc"><img src="20190418_015.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190418_016.jpg" data-lightbox="abc"><img src="20190418_016.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190418_017.jpg" data-lightbox="abc"><img src="20190418_017.jpg" alt="サンプル画像" width="900" /></a>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
