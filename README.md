@@ -1,21 +1,15 @@
 # kaomangai
 
-<html lang="en">
+<html lang="th">
  <head>
-<meta content="IE=11.0000" http-equiv="X-UA-Compatible">
-
+ <meta content="IE=11.0000" http-equiv="X-UA-Compatible">
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
-
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width,initial-scale=1"><LINK href="favicon.ico" rel="icon">
-<TITLE>rarsya-kaomangai</TITLE>
-
-<meta name="keywords" content="kaomangai, Thailand, ラーシャー, カオマンガイ">
-<meta content="website" property="og:type">
-
- 
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width,initial-scale=1"><LINK href="favicon.ico" rel="icon">
+ <TITLE>rarsya-kaomangai</TITLE>
+ <meta name="keywords" content="kaomangai, Thailand, タイ, ラーシャー, カオマンガイ">
+ <meta content="website" property="og:type">
 
 <style type="text/css">
 
@@ -130,7 +124,6 @@ html {
 <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
 
-<div style="background-color: rgba(255, 255, 0, 0.3)";> 
 
 <h3><span class="white">↓ 2019/03/30</span></h3>
 <a href="20190330_001.JPG" data-lightbox="abc"><img src="20190330_001.JPG" alt="サンプル画像" width="900" /></a>
@@ -138,7 +131,6 @@ html {
 <a href="20190416_003.JPG" data-lightbox="abc"><img src="20190416_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190416_004.JPG" data-lightbox="abc"><img src="20190416_004.JPG" alt="サンプル画像" width="900" /></a>
 
-</div>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
