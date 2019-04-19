@@ -159,7 +159,7 @@ html {
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190419_001.JPG" data-lightbox="abc"><img src="20190419_001.JPG" alt="サンプル画像" width="400" /></a>
-<a href="20190419_002.JPG" data-lightbox="abc"><img src="20190419_002.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20190419_002.JPG" data-lightbox="abc"><img src="20190419_002.JPG" alt="サンプル画像" width="404" /></a>
 <br>
 Map
 <br>
