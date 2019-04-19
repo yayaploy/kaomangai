@@ -14,7 +14,7 @@
 <style type="text/css">
 
   p {
-color: #0000ff;
+color: #00ffff;
 font-size: 2.5em;
  }
 <!--
@@ -116,7 +116,7 @@ html {
 <div class="landscape-view"><img src="turn.png"></div>
 -->
 
-<span class="blue"><p align="right">ラーシャー・カオマンガイ</p></span>
+<p align="right">ラーシャー・カオマンガイ</p>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２-９、Open,11:00~Close,21:00!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
 <br><br><br><br><br><br><br>
