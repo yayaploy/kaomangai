@@ -160,6 +160,7 @@ html {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190419_001.JPG" data-lightbox="abc"><img src="20190419_001.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20190419_002.JPG" data-lightbox="abc"><img src="20190419_002.JPG" alt="サンプル画像" width="400" /></a>
+<br>
 Map
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6426.081557253202!2d139.89929972696638!3d36.554398589652195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x87885a2940e0f690!2z44Op44O844K344Oj44O844O744Kr44Kq44Oe44Oz44Ks44Kk!5e0!3m2!1sja!2sjp!4v1555501397356!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
