@@ -152,6 +152,7 @@ html {
 <a href="20190502_001.jpg" data-lightbox="abc"><img src="20190502_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190502_002.jpg" data-lightbox="abc"><img src="20190502_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190502_003.jpg" data-lightbox="abc"><img src="20190502_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190502_004.jpg" data-lightbox="abc"><img src="20190502_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190420_001.jpg" data-lightbox="abc"><img src="20190420_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190420_002.jpg" data-lightbox="abc"><img src="20190420_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190420_003.jpg" data-lightbox="abc"><img src="20190420_003.jpg" alt="サンプル画像" width="900" /></a>
