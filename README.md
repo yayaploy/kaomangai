@@ -128,7 +128,7 @@ html {
 <a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">↓ 2019/03/30</span></h3>
+<h3><span class="white">↓ 2019/03/30〜</span></h3>
 <a href="20190418_003.jpg" data-lightbox="abc"><img src="20190418_003.jpg" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20190416_001.JPG" data-lightbox="abc"><img src="20190416_001.JPG" alt="サンプル画像" width="900" /></a>
