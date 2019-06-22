@@ -125,7 +125,7 @@ html {
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
 <h1><span class="yellow"><marquee behavior="lrft">オリオン通りイベントに出店中、2019/06/22~23、11:00~20:00</marquee></span></h1>
 <a href="20190622_000.JPG" data-lightbox="abc"><img src="20190622_000.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" hight="750" /></a>
+<a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" height="750" /></a>
 <a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="white">↓ 2019/03/30〜</span></h3>
