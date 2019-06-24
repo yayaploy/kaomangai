@@ -123,7 +123,7 @@ html {
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100" >
 <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
-<h1><span class="yellow"><marquee behavior="lrft">オリオン通りイベントに出店中、2019/06/22~23、11:00~20:00</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">オリオン通りイベントに出店しました。2019/06/22~23、11:00~20:00</marquee></span></h1>
 <a href="20190622_000.JPG" data-lightbox="abc"><img src="20190622_000.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>
