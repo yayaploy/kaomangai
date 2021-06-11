@@ -57,7 +57,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/kaomangai/20190418_003.jpg) center/cover no-repeat; /*fixedをトル！*/
+ /* background:url(https://yayaploy.github.io/kaomangai/20190418_003.jpg) center/cover no-repeat; *//*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -112,15 +112,17 @@ html {
 </head>
 
 <body>
+<h1><span class="yellow"><marquee behavior="lrft">!!!HP Stopped!!!</marquee></span></h1>
 <!--
 <div class="landscape-view"><img src="turn.png"></div>
 -->
-
+<!--
 <p align="right">ラーシャー・カオマンガイ</p>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２-９、Open,11:00~Close,21:00!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
 <!--
 <h1><span class="yellow"><marquee behavior="lrft">!!!〜〜8/14 お盆休みです〜〜!!!</marquee></span></h1>-->
+<!--
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100" >
 <img src="venus1.gif" alt="venus1.gif" width="50">
@@ -131,6 +133,7 @@ html {
 <a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>-->
 
+<!--
 <h3><span class="white">↓ 2019/03/30〜</span></h3>
 <a href="20190418_003.jpg" data-lightbox="abc"><img src="20190418_003.jpg" alt="サンプル画像" width="900" /></a>
 
@@ -189,7 +192,11 @@ Map
 <script src="https://yayaploy.github.io/suphattraland/my.js"></script> 
 
 <!-- フッタ -->
+<!--
  <footer><span class="snow">
  Copyright 2019/04/17 Torokoid.Mibu
 </span></footer>
+</html>
+-->
+</body>
 </html>
