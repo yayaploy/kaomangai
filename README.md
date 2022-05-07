@@ -112,11 +112,12 @@ html {
 </head>
 
 <body>
-<h1><span class="yellow"><marquee behavior="lrft">!!!HP Stopped!!!</marquee></span></h1>
-<!--
+<!--	
+<h1><span class="yellow"><marquee behavior="lrft">!!!HP Stopped!!!</marquee></span></h1>-->
+
 <div class="landscape-view"><img src="turn.png"></div>
--->
-<!--
+
+
 <p align="right">ラーシャー・カオマンガイ</p>
 <h1><span class="yellow"><marquee behavior="lrft">!!!ラーシャー・カオマンガイ@宇都宮市簗瀬４丁目２２-９、Open,11:00~Close,21:00!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
@@ -127,13 +128,13 @@ html {
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100" >
 <img src="venus1.gif" alt="venus1.gif" width="50">
 <img src="venus3.gif" alt="venus3.gif" width="50"></p>
-<!--
+
 <h1><span class="yellow"><marquee behavior="lrft">オリオン通りイベントに出店しました。2019/06/22~23、11:00~20:00</marquee></span></h1>
 <a href="20190622_000.JPG" data-lightbox="abc"><img src="20190622_000.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190622_001.JPG" data-lightbox="abc"><img src="20190622_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>-->
+<a href="20190622_002.JPG" data-lightbox="abc"><img src="20190622_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<!--
+
 <h3><span class="white">↓ 2019/03/30〜</span></h3>
 <a href="20190418_003.jpg" data-lightbox="abc"><img src="20190418_003.jpg" alt="サンプル画像" width="900" /></a>
 
@@ -146,9 +147,10 @@ html {
 
 
 <a href="20190418_001.jpg" data-lightbox="abc"><img src="20190418_001.jpg" alt="サンプル画像" width="900" /></a>
+<!--
 <p align="left">一押しは、カオマンガイ・セット、¥800 ↓</p>
 <a href="20190418_002.jpg" data-lightbox="abc"><img src="20190418_002.jpg" alt="サンプル画像" width="900" /></a>
-
+-->
 <a href="20190418_004.jpg" data-lightbox="abc"><img src="20190418_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_005.jpg" data-lightbox="abc"><img src="20190418_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_006.jpg" data-lightbox="abc"><img src="20190418_006.jpg" alt="サンプル画像" width="900" /></a>
@@ -192,11 +194,11 @@ Map
 <script src="https://yayaploy.github.io/suphattraland/my.js"></script> 
 
 <!-- フッタ -->
-<!--
+
  <footer><span class="snow">
  Copyright 2019/04/17 Torokoid.Mibu
 </span></footer>
 </html>
--->
+
 </body>
 </html>
