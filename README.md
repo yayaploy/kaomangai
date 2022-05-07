@@ -123,7 +123,7 @@ html {
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:080-3081-3677</marquee></p>
 <!--
 <h1><span class="yellow"><marquee behavior="lrft">!!!〜〜8/14 お盆休みです〜〜!!!</marquee></span></h1>-->
-<!--
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_kaomangai.png" alt="QR_code" width="100" >
 <img src="venus1.gif" alt="venus1.gif" width="50">
@@ -147,10 +147,10 @@ html {
 
 
 <a href="20190418_001.jpg" data-lightbox="abc"><img src="20190418_001.jpg" alt="サンプル画像" width="900" /></a>
-<!--
+
 <p align="left">一押しは、カオマンガイ・セット、¥800 ↓</p>
 <a href="20190418_002.jpg" data-lightbox="abc"><img src="20190418_002.jpg" alt="サンプル画像" width="900" /></a>
--->
+
 <a href="20190418_004.jpg" data-lightbox="abc"><img src="20190418_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_005.jpg" data-lightbox="abc"><img src="20190418_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190418_006.jpg" data-lightbox="abc"><img src="20190418_006.jpg" alt="サンプル画像" width="900" /></a>
