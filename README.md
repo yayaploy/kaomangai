@@ -57,11 +57,11 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
- /* background:url(https://yayaploy.github.io/kaomangai/20190418_003.jpg) center/cover no-repeat; *//*fixedをトル！*/
+  background:url(https://yayaploy.github.io/kaomangai/20190418_003.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
-/*
+
 div {
   background-color: rgb(0,0,0);
 }
@@ -103,7 +103,7 @@ html {
 	padding: 50px 0px; width: 100%; display: flex; position: fixed; justify-content: center; align-items: center; -webkit-box-align: center; -webkit-box-pack: center;
 }
 }
-*/
+
   
 </style>
 
@@ -113,8 +113,8 @@ html {
 
 <body>
 <!--	
-<h1><span class="yellow"><marquee behavior="lrft">!!!HP Stopped!!!</marquee></span></h1>-->
-
+<h1><span class="yellow"><marquee behavior="lrft">!!!HP Stopped!!!</marquee></span></h1>
+-->
 <div class="landscape-view"><img src="turn.png"></div>
 
 
