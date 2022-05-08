@@ -84,12 +84,12 @@ div {
 #app > :not(.landscape-view) {
 	height: 100%; overflow: hidden; display: none; position: fixed;
 }
-/*body {
+<!--body {
 	background: rgb(0, 0, 0); position: relative;
 }
 html {
 	background: rgb(0, 0, 0); position: relative;
-}*/
+}-->
 .landscape-view {
 	height: 100%; overflow: hidden;
 }
